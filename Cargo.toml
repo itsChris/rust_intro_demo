@@ -1,0 +1,13 @@
+[package]
+name = "rust_intro_demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+minifb = "0.17"
+rodio = "0.15"
+midly = "0.5"
+rayon = "1.7"  # Optional for parallelism
+rand = "0.8"  # Add this line
+
+
